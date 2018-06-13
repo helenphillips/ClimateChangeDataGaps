@@ -1,6 +1,6 @@
 ApplyQuantiles <- function(x) {
   	breaks = c(quantile(x, probs = seq(0, 1, by = 0.25)))
-	cut(x, breaks = breaks + seq_along(breaks) * .Machine$double.eps, ## For urban which has a lot of non-unique values 
+	cut(x, breaks = breaks + seq_along(breaks) * .Machine$double.eps, 
       labels=c(1,2,3,4),include.lowest=TRUE)
 }
 
