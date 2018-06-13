@@ -21,3 +21,15 @@ other attached packages:
 [13] startupmsg_0.9.4         ape_4.0                  raster_2.5-8            
 [16] sp_1.2-3   
 ```
+
+## Authors
+* **Erin Cameron**
+* **Helen Phillips** - [helenphillips](https://github.com/helenphillips)
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+The Hellingers Distance function code is a modified version of that made available by [Gonzales et al. 2016. Ecology 97 pp1949-1960](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/15-1759.1) in the original GitHub repository of [jebyrnes](https://github.com/jebyrnes/Biodiversity)
+
