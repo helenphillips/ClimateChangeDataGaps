@@ -5,7 +5,8 @@ This gitHub repository currently only contains the code for the functions, analy
 
 ## R Session Info
 
-```R version 3.3.1 (2016-06-21)
+```
+R version 3.3.1 (2016-06-21)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 Running under: Windows 7 x64 (build 7601) Service Pack 1
 
