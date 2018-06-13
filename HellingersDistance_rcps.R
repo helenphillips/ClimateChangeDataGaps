@@ -14,10 +14,10 @@ library(distr)
 ## Variables in this section will need to be changed
 #########################################################################################
 
-source("C:\\Users\\HellsDistFunction.R") ##set location of the HellsDistFunction file
+source("HellsDistFunction.R") ##set location of the HellsDistFunction file
 
 #### Load study sites dataset
-sites <- read.csv("C:\\Users\\data_foodwebsclimate.csv") ##set location of data file with study site locations
+sites <- read.csv("data_foodwebsclimate.csv") ##set location of data file with study site locations
 lat <- sites$y
 long <- sites$x
 
